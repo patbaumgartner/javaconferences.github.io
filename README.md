@@ -86,6 +86,14 @@ Missing a conference, seeing an issue, or something needs an update? Send a pull
 
 ## Archive
 
+### 2027
+
+| Conference | Location | Hybrid | (Expected) Date | CFP Link |
+| --- | --- | ---: | ---: | --- |
+| [Java Day Istanbul](https://javaday.istanbul) | Istanbul, Turkiye | no | 17 April 2027 | [Link](https://bilgi711.wixforms.com/f/7479128754174821378) (Closes 31 October 2026) 🟢 |
+
+
+
 ### 2025
 
 | Conference | Location | Hybrid | (Expected) Date | CFP Link |
